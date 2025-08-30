@@ -1,0 +1,24 @@
+Report Card Generator
+Name of student: bindushree
+Number of subjects: 3
+
+Subject 1: math
+Marks scored in math: 69
+Max marks (press enter if 100): 
+
+Subject 2: science
+Marks scored in science: 79
+Max marks (press enter if 100): 
+
+Subject 3: japanese
+Marks scored in japanese: 80
+Max marks (press enter if 100): 
+
+--- Result ---
+math : 69/100  --> 69.0% Grade C
+science : 79/100  --> 79.0% Grade B
+japanese : 80/100  --> 80.0% Grade A
+-------------
+Total: 228 / 300
+Overall %: 76.0
+Final Grade: B
