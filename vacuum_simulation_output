@@ -1,0 +1,152 @@
+--- Main Commands ---
+1. Start (Choose Solid/Liquid)
+2. Left
+3. Right
+4. Dock
+5. Stop
+Enter command: 2
+The vacuum has turned to the left side
+
+
+--- Main Commands ---
+1. Start (Choose Solid/Liquid)
+2. Left
+3. Right
+4. Dock
+5. Stop
+Enter command: 4
+The vacuum has returned to dock and is charging...
+
+
+--- Main Commands ---
+1. Start (Choose Solid/Liquid)
+2. Left
+3. Right
+4. Dock
+5. Stop
+Enter command: 3
+The vacuum has turned to the right side
+
+
+--- Main Commands ---
+1. Start (Choose Solid/Liquid)
+2. Left
+3. Right
+4. Dock
+5. Stop
+Enter command: 1
+
+--- Vacuum Start ---
+1. Solid
+2. Liquid
+3. Back to Commands
+Choose category: 2
+
+--- Liquid Options ---
+1. Water
+2. Beverage
+3. Others
+4. Back to Start
+Choose the type of liquid: 4
+
+--- Vacuum Start ---
+1. Solid
+2. Liquid
+3. Back to Commands
+Choose category: 1
+
+--- Solid Options ---
+1. Dust
+2. Rocks/Papers
+3. Others
+4. Back to Start
+Choose the type of solid: 3
+The vacuum is sucking other solid materials...
+The shape of the vacuum has changed to Square
+
+
+--- Solid Options ---
+1. Dust
+2. Rocks/Papers
+3. Others
+4. Back to Start
+Choose the type of solid: 2
+The vacuum is sucking the rocks/papers...
+The shape of the vacuum has changed to Circle
+
+
+--- Solid Options ---
+1. Dust
+2. Rocks/Papers
+3. Others
+4. Back to Start
+Choose the type of solid: 1
+The vacuum is sucking the dust...
+The shape of the vacuum has changed to Rectangle
+
+
+--- Solid Options ---
+1. Dust
+2. Rocks/Papers
+3. Others
+4. Back to Start
+Choose the type of solid: 4
+
+--- Vacuum Start ---
+1. Solid
+2. Liquid
+3. Back to Commands
+Choose category: 1
+
+--- Solid Options ---
+1. Dust
+2. Rocks/Papers
+3. Others
+4. Back to Start
+Choose the type of solid: 1
+The vacuum is sucking the dust...
+The shape of the vacuum has changed to Rectangle
+
+
+--- Solid Options ---
+1. Dust
+2. Rocks/Papers
+3. Others
+4. Back to Start
+Choose the type of solid: 4
+
+--- Vacuum Start ---
+1. Solid
+2. Liquid
+3. Back to Commands
+Choose category: 3
+
+--- Main Commands ---
+1. Start (Choose Solid/Liquid)
+2. Left
+3. Right
+4. Dock
+5. Stop
+Enter command: 2
+The vacuum has turned to the left side
+
+
+--- Main Commands ---
+1. Start (Choose Solid/Liquid)
+2. Left
+3. Right
+4. Dock
+5. Stop
+Enter command: 4
+The vacuum has returned to dock and is charging...
+
+
+--- Main Commands ---
+1. Start (Choose Solid/Liquid)
+2. Left
+3. Right
+4. Dock
+5. Stop
+Enter command: 5
+The vacuum has stopped. Goodbye!
+
