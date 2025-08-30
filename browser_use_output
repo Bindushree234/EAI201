@@ -1,0 +1,18 @@
+🚀 Task Started: YouTube Automation — Search & Open Video
+
+✅ Step 1: Opened YouTube
+📄 Summary: YouTube homepage loaded successfully.
+
+✅ Step 2: Searched for "Python programming tutorial"
+📄 Summary: Search results displayed with multiple tutorial videos.
+
+✅ Step 3: Clicked on the first video result
+📄 Summary: Navigated to the first Python tutorial video page.
+
+✅ Step 4: Extracted video details
+📄 Summary: Video Title — "Python Tutorial for Beginners [Full Course]"
+             Channel — "Programming with Mosh"
+
+🎉 Task Completed Successfully!
+✨ Final Summary: The bot opened YouTube, searched for a Python tutorial,
+clicked on the first video, and provided its title & channel details.
