@@ -1,0 +1,48 @@
+Greedy Best-First (manhattan):
+Path length: 7, Nodes explored: 6
+S*010
+11*16
+00*10
+11*11
+000*G
+
+A* Search (manhattan):
+Path length: 7, Nodes explored: 6
+S*010
+11*16
+00*10
+11*11
+000*G
+
+Greedy Best-First (euclidean):
+Path length: 7, Nodes explored: 6
+S*010
+11*16
+00*10
+11*11
+000*G
+
+A* Search (euclidean):
+Path length: 7, Nodes explored: 7
+S*010
+11*16
+00*10
+11*11
+000*G
+
+Greedy Best-First (diagonal):
+Path length: 7, Nodes explored: 6
+S*010
+11*16
+00*10
+11*11
+000*G
+
+A* Search (diagonal):
+Path length: 7, Nodes explored: 8
+S*010
+11*16
+00*10
+11*11
+000*G
+
