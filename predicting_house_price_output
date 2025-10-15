@@ -1,0 +1,28 @@
+
+House Price Prediction using Forward Selection
+## Step 1: Evaluate Each Feature Alone
+R^2 with Area:      0.5917
+R^2 with Rooms:     0.8791
+R^2 with Distance:  0.5243
+R^2 with Age:       0.0261
+
+ Best single feature is 'Area'.
+
+## Step 2: Add a Second Feature to 'Area'
+R^2 with Area + Rooms:    0.9837
+R^2 with Area + Distance: 0.9898
+R^2 with Area + Age:      0.6986
+
+ Best two-feature combination is 'Area' and 'Rooms'.
+
+## Step 3: Stopping and Final Model Summary
+Forward selection results:
+
+Step                    Features Included Model R^2
+   1                             ['Area']    0.5917
+   2                    ['Area', 'Rooms']    0.9837
+   3        ['Area', 'Rooms', 'Distance']    0.9999
+   4 ['Area', 'Rooms', 'Distance', 'Age']    1.0000
+
+Since the R^2 score increases significantly with each added feature,
+the model with all four features is the best choice for this dataset.
