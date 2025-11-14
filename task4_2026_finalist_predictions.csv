@@ -1,0 +1,9 @@
+team,goals_for,goals_against,goal_diff,goals_for_per_match,goals_against_per_match,win_rate,points,rank,Finalist_Probability
+Argentina,15,5,10,2.5,0.83,0.83,1750,1,0.465
+France,14,6,8,2.33,1.0,0.8,1735,2,0.307
+Brazil,12,7,5,2.0,1.16,0.78,1710,3,0.266
+Netherlands,8,9,-1,1.33,1.5,0.68,1660,8,0.223
+Portugal,10,7,3,1.67,1.16,0.74,1695,5,0.222
+Spain,9,8,1,1.5,1.33,0.72,1685,6,0.221
+Germany,9,8,1,1.5,1.33,0.7,1670,7,0.199
+England,11,6,5,1.83,1.0,0.76,1700,4,0.175
